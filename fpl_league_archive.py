@@ -3,7 +3,7 @@ import urllib, json
 import urllib.request
 import pandas as pd
 
-#247148 3988
+#247148  3988
 league_code = 249673
 gw_current = 8
 gw_start = 1
